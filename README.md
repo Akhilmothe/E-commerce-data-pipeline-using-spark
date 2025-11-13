@@ -1,7 +1,4 @@
 # E-commerce-data-pipeline-using-spark
-This repository presents an end-to-end e-commerce data pipeline, leveraging Apache Spark for distributed processing, Medallion Architecture for data lake structuring, a One Big Table (OBT) for analytics, and PyTest+Great Expectations for robust data validation, following industry-standard best practices in data engineering
-# Spark-Data-Engineering
-
 This repository showcases a complete **end-to-end data pipeline** for an e-commerce dataset, designed following industry-standard best practices in data engineering and analytics. The project leverages **Apache Spark** for distributed data processing, adopts the **Medallion Architecture** for data lake structuring, implements a **One Big Table (OBT)** approach for analytics, and ensures robust testing with **PyTest** and **Great Expectations**.
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
